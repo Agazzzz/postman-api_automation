@@ -1,5 +1,6 @@
 # postman-api_automation
 This collection including CRUD and also report using Newman
+
 How to run API Automation with Postman:
 1. Make sure you already installed Postman.
 2. Open Postman on your desktop.
